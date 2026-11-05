@@ -36,8 +36,12 @@ Push хийсний дараа GitHub дээрх **Actions** табаас авт
 
 - `dart test test/lab1_test.dart`: 26 / 26 (All tests passed!), `dart analyze`: No issues found!
 - Бонус B1 (`dart test test/bonus_test.dart`): хийсэн ✓
+
+### shoplite
+
+- `flutter test`: 3 / 3 тест амжилттай, `flutter analyze`: No issues found!
+- D3 (a–g) бүх шаардлага хийгдсэн
 - Бонус B2 (AppBar дээр `Badge`-тэй сагсны тоо): хийсэн ✓
-- shoplite `flutter test`: 3 / 3 тест амжилттай
 
 ### D2. Төслийн бүтэц
 
