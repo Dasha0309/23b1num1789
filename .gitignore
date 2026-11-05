@@ -1,0 +1,10 @@
+# AI / editor / OS files
+.claude/
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Dart / Flutter build artifacts
+.dart_tool/
+build/
